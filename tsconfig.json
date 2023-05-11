@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./",
+        "target": "ESNext",
+        "allowJs": true,
+        "noEmitOnError": false,
+        "strict": true,
+    },
+    "files": ["app.ts"]
+}
